@@ -1,32 +1,26 @@
 [
   {
-    "key": "4917468834040650915",
+    "key": "4906121585608035382",
     "expires": "2030-10-01T12:00:00Z",
-    "user": "Bogitosecond",
-    "admin": false
+    "user": "kyll",
+    "admin": true
   },
   {
     "key": "4903985864788795442",
     "expires": "2030-10-01T12:00:00Z",
     "user": "Viero",
+    "admin": false
+  },
+  {
+    "key": "4908524713941655157",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "Blake",
     "admin": true
   },
   {
-    "key": "12609010893482455871",
-    "expires": "2025-11-15T18:30:00Z",
-    "user": "Ryu",
-    "admin": false
-  },
-  {
-    "key": "4916244542231064180",
-    "expires": "2026-09-15T18:30:00Z",
-    "user": "Bogsa",
-    "admin": false
-  },
-  {
-    "key": "4913569454369037932",
-    "expires": "2025-11-15T18:30:00Z",
-    "user": "Gavin",
+    "key": "4907577581545086032",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "gray",
     "admin": true
   },
   {
@@ -36,10 +30,10 @@
     "admin": true
  },
   {
-    "key": "4908232051613805213",
-    "expires": "2025-11-15T18:30:00Z",
-    "user": "Jakerk",
-    "admin": false
+    "key": "4914602734072229490",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "jnas",
+    "admin": true
   },
    {
     "key": "4904834060933478756",
@@ -48,27 +42,22 @@
     "admin": false
    },
    {
-    "key": "4906644927889758202",
-    "expires": "2025-11-15T18:30:00Z",
-    "user": "Bugito",
-    "admin": false
-   },
-   {
-    "key": "4923890250642371233",
-    "expires": "2025-11-15T18:30:00Z",
-    "user": "Kyle",
-    "admin": false
-   },
-   {
-    "key": "4904383127413000512",
-    "expires": "2025-11-15T18:30:00Z",
-    "user": "Yuta",
-    "admin": false
-   }
-   {
     "key": "4910932238063522129",
-    "expires": "2099-11-15T18:30:00Z",
-    "user": "XYPHER",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "xypher",
     "admin": true
    },
+   {
+    "key": "4916244542231064180",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "bogsa",
+    "admin": true
+   },
+   {
+    "key": "4909814732490496512",
+    "expires": "2030-11-15T18:30:00Z",
+    "user": "migz",
+    "admin": true
+   }
+
 ]
